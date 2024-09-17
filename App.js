@@ -277,6 +277,7 @@ const styles = StyleSheet.create({
     flex: 1,
     justifyContent: 'center',
     alignItems: 'center',
+    backgroundColor: '#FFE2C4',
   },
   splashImage: {
     width: 200,
